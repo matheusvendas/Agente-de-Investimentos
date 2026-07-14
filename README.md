@@ -1,9 +1,9 @@
-# 📈 Invest Vasconcelos - Intelligent Assistant
+# 📈 Investimentos - Intelligent Assistant
 
 > **Democratizando o acesso a dados estratégicos de investimento através de Inteligência Artificial Generativa.**
 
 ## 💡 O Conceito
-A **Invest Vasconcelos** lida diariamente com dois tipos críticos de informação que não conversam entre si:
+Uma empresa de investimentos lida diariamente com dois tipos críticos de informação que não conversam entre si:
 1.  **Regras e Estratégias (Não-Estruturado):** Documentos PDF com políticas de conformidade, teses de investimento e sugestões de alocação.
 2.  **Dados de Mercado (Estruturado):** Bancos de dados com histórico de cotações (ex: Bitcoin/Cripto), volumes e transações.
 
